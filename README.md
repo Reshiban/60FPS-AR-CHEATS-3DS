@@ -17,7 +17,7 @@ https://github.com/Nanquitas/CTRPluginFramework-BlankTemplate/releases<br>
 ### II - Luma3DS (Rosalina menu)
 1) Download **Luma3DS** and put to `sd:/boot.firm` (must already be on your console):
 https://github.com/AuroraWright/Luma3DS/releases<br>
-2) Put your cheat files from **this** post in `sd:/luma/titles/<tid>/cheats.txt`<br>
+2) Put your cheat files from **the actual post** in `sd:/luma/titles/<tid>/cheats.txt`<br>
 3) Open your game and open **Rosalina menu**<br>
 4) Open **Cheats...** menu, check your 60FPS cheat and return in game<br>
 **NOTE: Preferably use CTRPF, Rosalina can't use folder function which is important here**
