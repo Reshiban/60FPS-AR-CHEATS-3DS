@@ -7,6 +7,8 @@ D0000000 00000000
 {Game runs faster.
 Codes by @discordxdlapp66}
 
+[++FPS++]
+
 [++v2.0++]
 
 [60++ FPS v2.0]
@@ -54,5 +56,7 @@ D3000000 10000000
 D2000000 00000000
 {Game runs faster.
 Codes by @discordxdlapp66}
+
+[--]
 
 [--]
