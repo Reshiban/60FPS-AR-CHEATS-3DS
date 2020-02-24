@@ -1,0 +1,59 @@
+[30FPS v1.5 (Hold R button for 60FPS)]
+D3000000 30000000
+028D55B0 00000004
+DD000000 00000100
+028D55B0 00000002
+D0000000 00000000
+{Make runs faster.
+Codes by Reshiban and discordxdlapp66}
+
+[++FPS++]
+
+[++v1.5++]
+
+[60+FPS v1.5]
+D3000000 30000000
+028D55B0 00000001
+{Make runs faster.
+Codes by Reshiban and discordxdlapp66}
+
+[Default 60FPS v1.5]
+D3000000 30000000
+028D55B0 00000002
+{Make runs faster.
+Codes by Reshiban and discordxdlapp66}
+
+[30FPS v1.5]
+D3000000 30000000
+028D55B0 00000004
+{Make runs faster.
+Codes by Reshiban and discordxdlapp66}
+
+[--]
+
+[++v1.0++]
+
+[60+FPS v1.0]
+D3000000 10000000
+268D45D0 00000001
+D2000000 00000000
+{Make runs faster.
+Codes by discordxdlapp66}
+
+[Default 60FPS v1.0]
+D3000000 10000000
+268D45D0 00000002
+D2000000 00000000
+{Make runs faster.
+Codes by discordxdlapp66}
+
+[30FPS v1.0]
+D3000000 10000000
+268D45D0 00000004
+D2000000 00000000
+{Make runs faster.
+Codes by discordxdlapp66}
+
+[--]
+
+[--]
