@@ -25,6 +25,8 @@ https://github.com/AuroraWright/Luma3DS/releases<br>
 4) Open **Cheats...** menu, check your 60FPS cheat and return in game<br><br>
 **!!!NOTE: Preferably use CTRPF, Rosalina can't use folder function which is important here!!!**
 
+---
+
 # Contributing
 If you want to contribute:<br>
 -**For making cheats**, see under the <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/#post-8831465">original post</a> for some links to tutorials<br>
