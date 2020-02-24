@@ -9,7 +9,7 @@ This database is based on a GBATemp thread created by **@Hazerou**:
 https://github.com/mariohackandglitch/Luma3DS<br>
 2) Download **CTRPluginFramework.3gx** (rename to -> `default.3gx`) and put to `sd:/luma/plugins/default.3gx`<br>
 https://github.com/Nanquitas/CTRPluginFramework-BlankTemplate/releases<br>
-3) Put your cheat files from **this** post in `sd:/cheats/<tid>.txt`<br>
+3) Put your cheat files from **the actual post** in `sd:/cheats/<tid>.txt`<br>
 4) Turn on your console, open Rosalina menu (L + Down + Select) and set **Plugin Loader:** to `Enabled`<br>
 5) Open your game, and push **Select** for open CTRPF<br>
 6) Go in **ActionReplay** menu, check FPS cheat and return to the game
