@@ -20,12 +20,12 @@ D0000000 00000000
 {Codes by @NanashiFinal13
 Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
 
-[60 FPS]
+[60FPS]
 080002A0 0000003C
 {Codes by @NanashiFinal13
 Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
 
-[Default 30 FPS]
+[Default 30FPS]
 080002A0 0000001E
 {Codes by @NanashiFinal13
 Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
