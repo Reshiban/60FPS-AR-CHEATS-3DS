@@ -4,8 +4,8 @@ D3000000 00000000
 DD000000 00000100
 0010553C 0000001E
 D0000000 00000000
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}'
 
 [++FPS++]
 
@@ -17,18 +17,18 @@ D3000000 00000000
 DD000000 00000100
 080002A0 0000001E
 D0000000 00000000
-{Codes by @NanashiFinal13
-Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
+{Code needs more testing - no issues so far, but in some areas/actions like airship travel, can't sustain the 60 fps.
+Codes by @NanashiFinal13}
 
 [60FPS]
 080002A0 0000003C
-{Codes by @NanashiFinal13
-Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
+{Code needs more testing - no issues so far, but in some areas/actions like airship travel, can't sustain the 60 fps.
+Codes by @NanashiFinal13}
 
 [Default 30FPS]
 080002A0 0000001E
-{Codes by @NanashiFinal13
-Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
+{Code needs more testing - no issues so far, but in some areas/actions like airship travel, can't sustain the 60 fps.
+Codes by @NanashiFinal13}
 
 [--]
 
@@ -40,18 +40,18 @@ D3000000 00000000
 DD000000 00000100
 0010553C 0000001E
 D0000000 00000000
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}
 
 [60FPS]
 0010553C E3A0003C
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}
 
 [Default 30FPS]
 0010553C 0000001E
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}
 
 [--]
 
