@@ -1,5 +1,7 @@
-# Original post
-This database is based on a GBATemp thread created by **@Hazerou**:
+# 60FPS-AR-CHEATS-3DS
+Here, you can finding AR cheats which allow you to change the FPS of your games<br>
+
+This database is based on a **GBATemp thread** created by **@Hazerou**:
 <br>https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/<br>
 
 ---
@@ -20,5 +22,10 @@ https://github.com/Nanquitas/CTRPluginFramework-BlankTemplate/releases<br>
 https://github.com/AuroraWright/Luma3DS/releases<br>
 2) Put your cheat files from **the actual post** in `sd:/luma/titles/<tid>/cheats.txt`<br>
 3) Open your game and open **Rosalina menu**<br>
-4) Open **Cheats...** menu, check your 60FPS cheat and return in game<br>
-**NOTE: Preferably use CTRPF, Rosalina can't use folder function which is important here**
+4) Open **Cheats...** menu, check your 60FPS cheat and return in game<br><br>
+**!!!NOTE: Preferably use CTRPF, Rosalina can't use folder function which is important here!!!**
+
+# Contributing
+If you want to contribute:<br>
+-**For making cheats**, see under the <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/#post-8831465">original post</a> for some links to tutorials<br>
+-**For sharing cheats**, send on our <a href="https://discord.gg/HSFX37b">Discord</a> or make a pull requests.
