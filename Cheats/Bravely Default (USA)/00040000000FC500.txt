@@ -13,20 +13,20 @@ Should work on all versions, cant figure out why fps drop to 30 at open world}
 
 [60FPS (Hold R button for 30FPS)]
 D3000000 00000000
-000002A0 0000003C
+080002A0 0000003C
 DD000000 00000100
-000002A0 0000001E
+080002A0 0000001E
 D0000000 00000000
 {Codes by @NanashiFinal13
 Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
 
 [60 FPS]
-000002A0 0000003C
+080002A0 0000003C
 {Codes by @NanashiFinal13
 Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
 
 [Default 30 FPS]
-000002A0 0000001E
+080002A0 0000001E
 {Codes by @NanashiFinal13
 Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
 
