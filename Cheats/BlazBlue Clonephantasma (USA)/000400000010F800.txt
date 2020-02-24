@@ -4,19 +4,19 @@ D3000000 00000000
 DD000000 00000100
 2026B6B8 00000002
 D0000000 00000000
-{Bugs, Works occasionally and will make the game runs faster
+{Game runs faster, bugs, Works occasionally.
 Codes by @Hazerou}
 
 [++FPS++]
 
 [60FPS]
 2026B6B8 00000001
-{Bugs, Works occasionally and will make the game runs faster
+{Game runs faster, bugs, Works occasionally.
 Codes by @Hazerou}
 
 [Default 30FPS]
 2026B6B8 00000002
-{Bugs, Works occasionally and will make the game runs faster
+{Game runs faster, bugs, Works occasionally.
 Codes by @Hazerou}
 
 [--]
