@@ -1,8 +1,11 @@
 # 60FPS-AR-CHEATS-3DS
-Here, you can finding AR cheats which allow you to change the FPS of your games<br>
+Here, you can finding AR cheats which allow you to change the FPS of your 3DS games<br>
 
-This database is based on a **GBATemp thread** created by **@Hazerou**:
-<br>https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/<br>
+This database is based on a **GBATemp thread** created by **@Hazerou**:<br>
+https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/<br>
+
+And chinese site (CHN and JPN list) by **@lucky**:<br>
+https://game.ali213.net/thread-6576428-1-1.html<br>
 
 ---
 
