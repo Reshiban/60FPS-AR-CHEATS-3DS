@@ -14,7 +14,7 @@ Codes by @Hazerou}
 {Game runs faster, doesn't always work on 3DS.
 Codes by @Hazerou}
 
-[30FPS]
+[Default 30FPS]
 203447F4 00000002
 {Game runs faster, doesn't always work on 3DS.
 Codes by @Hazerou}
