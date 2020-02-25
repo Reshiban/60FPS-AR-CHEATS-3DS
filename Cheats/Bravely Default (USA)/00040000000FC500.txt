@@ -4,31 +4,31 @@ D3000000 00000000
 DD000000 00000100
 0010553C 0000001E
 D0000000 00000000
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}'
 
-[++v1.0++]
+[++FPS++]
 
 [++@NanashiFinal13++]
 
 [60FPS (Hold R button for 30FPS)]
 D3000000 00000000
-000002A0 0000003C
+080002A0 0000003C
 DD000000 00000100
-000002A0 0000001E
+080002A0 0000001E
 D0000000 00000000
-{Codes by @NanashiFinal13
-Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
+{Code needs more testing - no issues so far, but in some areas/actions like airship travel, can't sustain the 60 fps.
+Codes by @NanashiFinal13}
 
-[60 FPS]
-000002A0 0000003C
-{Codes by @NanashiFinal13
-Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
+[60FPS]
+080002A0 0000003C
+{Code needs more testing - no issues so far, but in some areas/actions like airship travel, can't sustain the 60 fps.
+Codes by @NanashiFinal13}
 
-[30 FPS]
-000002A0 0000001E
-{Codes by @NanashiFinal13
-Code needs more testing- no issues so far, but in some areas/actions like airship travel, cant sustain the 60 fps.}
+[Default 30FPS]
+080002A0 0000001E
+{Code needs more testing - no issues so far, but in some areas/actions like airship travel, can't sustain the 60 fps.
+Codes by @NanashiFinal13}
 
 [--]
 
@@ -40,18 +40,18 @@ D3000000 00000000
 DD000000 00000100
 0010553C 0000001E
 D0000000 00000000
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}
 
 [60FPS]
 0010553C E3A0003C
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}
 
-[30FPS]
+[Default 30FPS]
 0010553C 0000001E
-{Codes by @mikewii
-Should work on all versions, cant figure out why fps drop to 30 at open world}
+{Should work on all versions, can't figure out why fps drop to 30 at open world.
+Codes by @mikewii}
 
 [--]
 
