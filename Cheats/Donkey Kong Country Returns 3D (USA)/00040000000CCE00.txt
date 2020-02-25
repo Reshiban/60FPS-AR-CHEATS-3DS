@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+2044F5C8 00000000
+DD000000 00000100
+2044F5C8 00000001
+D0000000 00000000
+{Game Runs Faster.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+2044F5C8 00000000
+{Game Runs Faster.
+Codes by @Hazerou}
+
+[30FPS]
+2044F5C8 00000001
+{Game Runs Faster.
+Codes by @Hazerou}
+
+[--]
