@@ -10,7 +10,7 @@ Codes by @NanashiFinal13}
 
 [++FPS++]
 
-[60FPS]
+[Default 60FPS]
 00717744 00000001
 {Game runs faster.
 Battles = 60fps but menus and loading screens = 30fps. Battles = 60fps without 3D, with 3D = 30fps, even with the 60fps code.
