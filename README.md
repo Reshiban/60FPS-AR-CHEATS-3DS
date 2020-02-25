@@ -32,4 +32,4 @@ https://github.com/AuroraWright/Luma3DS/releases<br>
 # Contributing
 If you want to contribute:<br>
 -**For making cheats**, see under the <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/#post-8831465">original post</a> for some links to tutorials<br>
--**For sharing cheats**, send on our <a href="https://discord.gg/HSFX37b">Discord</a> or make a pull requests.
+-**For sharing cheats**, send on our <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/">GBATemp</a>/<a href="https://discord.gg/HSFX37b">Discord</a> or make a pull requests.
