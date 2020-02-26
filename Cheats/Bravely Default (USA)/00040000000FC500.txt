@@ -2,7 +2,7 @@
 D3000000 00000000
 0010553C E3A0003C
 DD000000 00000100
-0010553C 0000001E
+0010553C E3A0001E
 D0000000 00000000
 {Should work on all versions, can't figure out why fps drop to 30 at open world.
 Codes by @mikewii}'
@@ -49,7 +49,7 @@ Codes by @mikewii}
 Codes by @mikewii}
 
 [Default 30FPS]
-0010553C 0000001E
+0010553C E3A0001E
 {Should work on all versions, can't figure out why fps drop to 30 at open world.
 Codes by @mikewii}
 
