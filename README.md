@@ -14,7 +14,7 @@ https://game.ali213.net/thread-6576428-1-1.html<br>
 # How to use
 ## I - CTRPF (Action Replay)
 1) Download **Luma3DS Plugin loader** and put to `sd:/boot.firm`:<br>
-https://github.com/mariohackandglitch/Luma3DS<br>
+https://github.com/mariohackandglitch/Luma3DS/releases<br>
 2) Download **CTRPluginFramework.3gx** (rename to -> `default.3gx`) and put to `sd:/luma/plugins/default.3gx`<br>
 https://github.com/Nanquitas/CTRPluginFramework-BlankTemplate/releases<br>
 3) Put your cheat files from **the actual post** in `sd:/cheats/<tid>.txt`<br>
