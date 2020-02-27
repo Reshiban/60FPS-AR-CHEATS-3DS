@@ -20,7 +20,7 @@ https://github.com/Nanquitas/CTRPluginFramework-BlankTemplate/releases<br>
 3) Put your cheat files from **the actual post** in `sd:/cheats/<tid>.txt`<br>
 4) Turn on your console, open Rosalina menu (L + Down + Select) and set **Plugin Loader:** to `Enabled`<br>
 5) Open your game, and push **Select** for open CTRPF<br>
-6) Go in **ActionReplay** menu, and **check** FPS cheat
+6) Go in **ActionReplay menu**, and **check** your FPS cheat
 7) Return to the game<br>
 
 ## II - Luma3DS (Rosalina menu)
