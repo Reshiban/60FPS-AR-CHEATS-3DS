@@ -4,16 +4,19 @@ D3000000 00000000
 DD000000 00000100
 205B64B0 00000001
 D0000000 00000000
-{Codes by @discordxdlapp66}
+{Game runs faster.
+Codes by @discordxdlapp66}
 
 [++FPS++]
 
 [60FPS]
 205B64B0 00000000
-{Codes by @discordxdlapp66}
+{Game runs faster.
+Codes by @discordxdlapp66}
 
-[30FPS]
+[Default 30FPS]
 205B64B0 00000001
-{Codes by @discordxdlapp66}
+{Game runs faster.
+Codes by @discordxdlapp66}
 
 [--]
