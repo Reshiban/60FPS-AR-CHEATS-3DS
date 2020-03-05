@@ -30,7 +30,7 @@ Codes by @NanashiFinal13}
 
 [--]
 
-[++@discordxdlapp66++]
+[++@lucky++]
 
 [60FPS Press R]
 D3000000 00000000
@@ -39,7 +39,7 @@ DD000000 00000100
 082A6FDA 003C0000
 D2000000 00000000
 {After loading the game, press the R button.
-Codes by @discordxdlapp66}
+Codes by @lucky}
 
 [30FPS Press R]
 D3000000 00000000
@@ -48,7 +48,7 @@ DD000000 00000100
 082A6FDA 001E0000
 D2000000 00000000
 {After loading the game, press the R button.
-Codes by @discordxdlapp66}
+Codes by @lucky}
 
 [--]
 
