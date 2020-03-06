@@ -41,7 +41,7 @@ D2000000 00000000
 {After loading the game, press the R button.
 Codes by @lucky}
 
-[30FPS Press R]
+[Default 30FPS Press R]
 D3000000 00000000
 282A6FDA 00000000
 DD000000 00000100
