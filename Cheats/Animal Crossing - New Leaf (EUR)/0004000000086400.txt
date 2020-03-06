@@ -4,7 +4,8 @@ D3000000 30000000
 DD000000 00000100
 228EEA90 00000002
 D0000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [++FPS++]
 
@@ -14,19 +15,22 @@ D0000000 00000000
 D3000000 30000000
 228EEA90 00000000
 D2000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [Default 60FPS v1.5]
 D3000000 30000000
 228EEA90 00000002
 D2000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [30FPS v1.5]
 D3000000 30000000
 228EEA90 00000004
 D2000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [--]
 
@@ -36,19 +40,22 @@ D2000000 00000000
 D3000000 30000000
 228EEA90 00000000
 D2000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [Default 60FPS v1.4]
 D3000000 30000000
 228EEA90 00000002
 D2000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [30FPS v1.4]
 D3000000 30000000
 228EEA90 00000004
 D2000000 00000000
-{Codes by @lucky}
+{(Work on v1.4/v1.5)
+Codes by @lucky}
 
 [--]
 
