@@ -1,4 +1,4 @@
-[60 FPS (Hold R button for 30FPS)]
+[60FPS (Hold R button for 30FPS)]
 D3000000 00000000
 201E2B00 00000011
 DD000000 00000100
@@ -9,17 +9,17 @@ Codes by @Hazerou}
 
 [++FPS++]
 
-[60 FPS]
+[60FPS]
 201E2B00 00000011
 {Game runs faster.
 Codes by @Hazerou}
 
-[30 FPS]
+[30FPS]
 201E2B00 00000022
 {Game runs faster.
 Codes by @Hazerou}
 
-[Default 20 FPS]
+[Default 20FPS]
 201E2B00 00000032
 {Game runs faster.
 Codes by @Hazerou}
