@@ -4,8 +4,8 @@ D3000000 30000000
 DD000000 00000100
 028D55B0 00000002
 D0000000 00000000
-{Make runs faster.
-Codes by @Reshiban and @discordxdlapp66}
+{Game runs faster.
+Codes by @Reshiban and @lucky}
 
 [++FPS++]
 
@@ -15,22 +15,22 @@ Codes by @Reshiban and @discordxdlapp66}
 D3000000 30000000
 028D55B0 00000000
 D2000000 00000000
-{Make runs faster.
-Codes by @Reshiban and @discordxdlapp66}
+{Game runs faster.
+Codes by @Reshiban and @lucky}
 
 [Default 60FPS v1.5]
 D3000000 30000000
 028D55B0 00000002
 D2000000 00000000
-{Make runs faster.
-Codes by @Reshiban and @discordxdlapp66}
+{Game runs faster.
+Codes by @Reshiban and @lucky}
 
 [30FPS v1.5]
 D3000000 30000000
 028D55B0 00000004
 D2000000 00000000
-{Make runs faster.
-Codes by @Reshiban and @discordxdlapp66}
+{Game runs faster.
+Codes by @Reshiban and @lucky}
 
 [--]
 
@@ -40,22 +40,22 @@ Codes by @Reshiban and @discordxdlapp66}
 D3000000 10000000
 268D45D0 00000000
 D2000000 00000000
-{Make runs faster.
-Codes by @discordxdlapp66}
+{Game runs faster.
+Codes by @lucky}
 
 [Default 60FPS v1.0]
 D3000000 10000000
 268D45D0 00000002
 D2000000 00000000
-{Make runs faster.
-Codes by @discordxdlapp66}
+{Game runs faster.
+Codes by @lucky}
 
 [30FPS v1.0]
 D3000000 10000000
 268D45D0 00000004
 D2000000 00000000
-{Make runs faster.
-Codes by @discordxdlapp66}
+{Game runs faster.
+Codes by @lucky}
 
 [--]
 
