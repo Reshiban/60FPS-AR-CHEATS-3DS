@@ -9,6 +9,8 @@ On battle: 55-60 fps. Outside of battle: 55-60 fps.
 (Tested on : UNDUB+Swimsuit+Marriage 0.4.1 Patch)
 Codes by @NanashiFinal13}
 
+[++FPS++]
+
 [60FPS]
 006DCA94 00000001
 {Game runs faster.
@@ -22,3 +24,5 @@ Codes by @NanashiFinal13}
 On battle: 55-60 fps. Outside of battle: 55-60 fps.
 (Tested on : UNDUB+Swimsuit+Marriage 0.4.1 Patch)
 Codes by @NanashiFinal13}
+
+[--]
