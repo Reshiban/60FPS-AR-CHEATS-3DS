@@ -4,19 +4,19 @@ D3000000 00000000
 DD000000 00000100
 206E1514 00000002
 D0000000 00000000
-{Game Runs Faster.
+{Game runs faster.
 Codes by @Hazerou}
 
 [++FPS++]
 
 [60FPS]
 206E1514 00000001
-{Game Runs Faster.
+{Game runs faster.
 Codes by @Hazerou}
 
 [Default 30FPS]
 206E1514 00000002
-{Game Runs Faster.
+{Game runs faster.
 Codes by @Hazerou}
 
 [--]
