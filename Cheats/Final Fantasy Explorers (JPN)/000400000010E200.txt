@@ -4,19 +4,22 @@ D3000000 00000000
 DD000000 00000100
 280927E8 00000002
 D0000000 00000000
-{Not always on 3DS and Game Runs Faster.
+{Game runs faster.
+Not always on 3DS.
 Codes by @lucky}
 
 [++FPS++]
 
 [60FPS]
 280927E8 00000001
-{Not always on 3DS and Game Runs Faster.
+{Game runs faster.
+Not always on 3DS.
 Codes by @lucky}
 
 [30FPS]
 280927E8 00000002
-{Not always on 3DS and Game Runs Faster.
+{Game runs faster.
+Not always on 3DS.
 Codes by @lucky}
 
 [--]
