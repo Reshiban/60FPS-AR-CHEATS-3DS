@@ -1,4 +1,4 @@
-[60FPS (Hold R button for default 30FPS) v1.2]
+[60FPS v1.2 (Hold R button for default 30FPS)]
 D3000000 30000000
 50000074 01000101
 20000075 00000000
@@ -69,19 +69,19 @@ Codes By @Shay (Helped by @Reshiban)}
 
 [++Extras++]
 
-[Game Speed faster]
+[Game Speed faster v1.2]
 D3000000 32000000
 000DBDB8 40000000
 D2000000 00000000
 {Codes by @Reshiban}
 
-[Game Speed normal]
+[Game Speed normal v1.2]
 D3000000 32000000
 000DBDB8 3F800000
 D2000000 00000000
 {Codes by @Reshiban}
 
-[Game Speed slower]
+[Game Speed slower v1.2]
 D3000000 32000000
 000DBDB8 3F000000
 D2000000 00000000
