@@ -27,7 +27,7 @@ D0000000 00000000
 D0000000 00000000
 D0000000 00000000
 {Game runs normal.
-Codes By @Shay (Helped by @Reshiban)}
+Codes by @Shay}
 
 [++FPS++]
 
@@ -47,7 +47,7 @@ D0000000 00000000
 D0000000 00000000
 D2000000 00000000
 {Game runs normal.
-Codes By @Shay (Helped by @Reshiban)}
+Codes by @Shay}
 
 [Default 30FPS v1.2]
 D3000000 30000000
@@ -65,7 +65,7 @@ D0000000 00000000
 D0000000 00000000
 D2000000 00000000
 {Game runs normal.
-Codes By @Shay (Helped by @Reshiban)}
+Codes by @Shay}
 
 [++Extras++]
 
