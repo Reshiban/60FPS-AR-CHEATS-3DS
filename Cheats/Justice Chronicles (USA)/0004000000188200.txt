@@ -1,25 +1,22 @@
 [60FPS (Hold R button for 30FPS)]
 D3000000 00000000
-203447F4 00000001
+20EE3668 00000014
 DD000000 00000100
-203447F4 00000002
+20EE3668 0000001E
 D0000000 00000000
 {Game runs faster.
-Doesn't always work on 3DS.
 Codes by @Hazerou}
 
 [++FPS++]
 
 [60FPS]
-203447F4 00000001
+20EE3668 00000014
 {Game runs faster.
-Doesn't always work on 3DS.
 Codes by @Hazerou}
 
 [Default 30FPS]
-203447F4 00000002
+20EE3668 0000001E
 {Game runs faster.
-Doesn't always work on 3DS.
 Codes by @Hazerou}
 
 [--]
