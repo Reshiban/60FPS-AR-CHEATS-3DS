@@ -30,7 +30,7 @@ https://github.com/Nanquitas/CTRPluginFramework-BlankTemplate/releases<br>
 https://github.com/AuroraWright/Luma3DS/releases<br>
 2) Put your cheat files from **the actual post** in `sd:/luma/titles/<tid>/cheats.txt`<br>
 3) Open your game and open **Rosalina menu**<br>
-4) Open **Cheats...** menu, and **check** ❎ your 60FPS cheat<br>
+4) Open **Cheats...** menu, and **check** ❎ your FPS cheat<br>
 5) Resume the game<br><br>
 **(NOTE: Preferably use CTRPF, Rosalina can't use folder function which is important here)**
 
