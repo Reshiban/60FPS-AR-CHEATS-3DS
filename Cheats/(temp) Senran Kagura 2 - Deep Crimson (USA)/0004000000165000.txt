@@ -1,0 +1,34 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+204C4154 00000001
+004C4FA4 42700000
+004C4FB0 3F000000
+DD000000 00000100
+204C4154 00000000
+004C4FA4 41F00000
+004C4FB0 3F800000
+D0000000 00000000
+{Bugs, Doesn't work on certain areas,FPS drops to 30 when there's a lot of Effects, sometimes faster on cutscenes and menus and gravity seems heavy...
+Anti-aliasing: 004C4150 00000000
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+204C4154 00000001
+004C4150 00000000
+004C4FA4 42700000
+004C4FB0 3F000000
+{Bugs, Doesn't work on certain areas,FPS drops to 30 when there's a lot of Effects, sometimes faster on cutscenes and menus and gravity seems heavy...
+Anti-aliasing: 004C4150 00000000
+Codes by @Hazerou}
+
+[30FPS]
+204C4154 00000000
+004C4FA4 41F00000
+004C4FB0 3F800000
+{Bugs, Doesn't work on certain areas,FPS drops to 30 when there's a lot of Effects, sometimes faster on cutscenes and menus and gravity seems heavy...
+Anti-aliasing: 004C4150 00000000
+Codes by @Hazerou}
+
+[--]
