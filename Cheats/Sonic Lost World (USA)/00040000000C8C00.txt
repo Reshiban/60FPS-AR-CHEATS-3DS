@@ -4,16 +4,19 @@ D3000000 00000000
 DD000000 00000100
 280003A0 00000001
 D0000000 00000000
-{Codes by @Voxel}
+{Game runs faster.
+Codes by @Voxel}
 
 [++FPS++]
 
 [60FPS]
 280003A0 00000000
-{Codes by @Voxel}
+{Game runs faster.
+Codes by @Voxel}
 
 [30FPS]
 280003A0 00000001
-{Codes by @Voxel}
+{Game runs faster.
+Codes by @Voxel}
 
 [--]
