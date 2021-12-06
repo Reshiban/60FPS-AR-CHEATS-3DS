@@ -7,9 +7,15 @@ This is a model for me and you, so you can understand how the cheats files are b
 ### Cheats names
 In basic files, there is 3 cheats:<br>
 
--60FPS (Hold R button for 30FPS)<br>
--60FPS<br>
--30FPS<br>
+
+| **FOLDER** |***root*** |
+| :--: | :---: |
+| cheat |60FPS (Hold R) |
+|**FOLDER**|\***FPS***  |
+| cheat |60FPS          |
+| cheat |30FPS          |
+
+### Cheat descriptions
 
 
 
