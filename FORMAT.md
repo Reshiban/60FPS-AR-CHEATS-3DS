@@ -1,19 +1,25 @@
 # Why this file ?
-I want a specific presentation for this project, to be as clean and consistent as possible between each files.<br>
-This is a model for me and you, so you can understand how the cheats files are built, and I can remember the format easily.<br>
-**THIS HAVE TO BE USED ON A REAL 3DS WITH CTRPF**
+This `FORMAT.md` file is here to set and understand the syntaxe of this project.<br>
+This been set by myself and nothing else.<br>
+Use it if you want to make a cheat for this repo<br>
+<br>Thanks :)<br>
+<br>
+### (---> **NEEDS REAL 3DS + CTRPF** <---)
 
 # Format
-### Cheats names
-In basic files, there is 3 cheats:<br>
+## Cheats names
+In this repo, the .txt cheat files basical structure is:<br>
+
+- _**root**_ folder:
+  - _**60FPS [Hold R button for 30FPS]**_ cheat
+- _**FPS**_ folder:
+   - _**60FPS**_ cheat
+   - _**30FPS**_ cheat
+
+Like this (picture):<br>
+\*insert a picture\*
 
 
-| **FOLDER** |***root*** |
-| :--: | :---: |
-| cheat |60FPS (Hold R) |
-|**FOLDER**|\***FPS***  |
-| cheat |60FPS          |
-| cheat |30FPS          |
 
 ### Cheat descriptions
 
