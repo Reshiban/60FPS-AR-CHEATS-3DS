@@ -1,14 +1,20 @@
-# Why this file ?
-This `FORMAT.md` file is here to set and understand the syntaxe of this project.<br>
-This been set by myself and nothing else.<br>
-Use it if you want to make a cheat for this repo<br>
-<br>Thanks :)<br>
-<br>
-### (---> **NEEDS REAL 3DS + CTRPF** <---)
+# INTRODUCTION
+`FORMAT.md` explain the syntax used for the cheats of this repo.<br>
+You can use it to make a cheat for this repo<br>
+
+### (WARINING: **REAL 3DS + CTRPF NEEDED**)
 
 # Format
 ## Cheats names
 In this repo, the .txt cheat files basical structure is:<br>
+
+```
+./
+./FPS/
+./FPS/
+./
+
+```
 
 - _**root**_ folder:
   - _**60FPS [Hold R button for 30FPS]**_ cheat
@@ -16,9 +22,9 @@ In this repo, the .txt cheat files basical structure is:<br>
    - _**60FPS**_ cheat
    - _**30FPS**_ cheat
 
+
 Like this (picture):<br>
 \*insert a picture\*
-
 
 
 ### Cheat descriptions
