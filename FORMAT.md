@@ -6,26 +6,33 @@ You can use it to make a cheat for this repo<br>
 
 # Format
 ## Cheats names
-In this repo, the .txt cheat files basical structure is:<br>
+For this repo, the .txt cheat files basical structure is:
 
+### Basical structure
 ```
 ./
+./[60FPS (Hold R button for 30FPS)]
 ./FPS/
-./FPS/
-./
-
+./FPS/[60FPS]
+./FPS/[30FPS]
 ```
 
-- _**root**_ folder:
-  - _**60FPS [Hold R button for 30FPS]**_ cheat
-- _**FPS**_ folder:
-   - _**60FPS**_ cheat
-   - _**30FPS**_ cheat
-
-
-Like this (picture):<br>
 \*insert a picture\*
+<br>
+A game could have some versions. In this case, some changes are applied:
 
+### Version structure
+```
+./
+./[60FPS v1.x (Hold R button for 30FPS)]
+./FPS/
+./FPS/[v1.0]/
+./FPS/[v1.0]/[60FPS]
+./FPS/[v1.0]/[30FPS]
+./FPS/[v1.x]/
+./FPS/[v1.x]/[60FPS]
+./FPS/[v1.x]/[30FPS]
+```
 
 ### Cheat descriptions
 
