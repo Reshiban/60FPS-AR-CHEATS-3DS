@@ -1,6 +1,4 @@
 **Under construction...**<br>
-(You can see all changes before wave here:
-https://github.com/Reshiban/60FPS-AR-CHEATS-3DS/tree/Reshiban-wave-adds-2)
 
 # 60FPS-AR-CHEATS-3DS
 Here, you can find AR cheats which allow you to change the FPS of your 3DS games<br>
