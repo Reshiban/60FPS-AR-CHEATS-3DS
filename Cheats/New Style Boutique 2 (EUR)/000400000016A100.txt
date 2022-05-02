@@ -26,12 +26,12 @@ Codes by @Reshiban}
 
 [++Extras++]
 
-[Disable Antialiasing]
+[Disable antialiasing]
 006F6CE0 00000000
 {Game runs normal.
 Codes by @Reshiban}
 
-[Antialiasing]
+[Default Enable antialiasing]
 006F6CE0 00010000
 {Game runs normal.
 Codes by @Reshiban}
