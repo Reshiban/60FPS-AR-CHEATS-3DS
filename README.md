@@ -16,9 +16,9 @@ https://game.ali213.net/thread-6576428-1-1.html<br>
 # How to use
 ## I - CTRPF (Action Replay) [RECOMMENDED]
 1) Download **Luma3DS Plugin loader** and put in `sd:/boot.firm`:<br>
-https://github.com/Nanquitas/Luma3DS/releases<br>
+https://github.com/Nanquitas/Luma3DS/releases/<br>
 2) Download **CTRPluginFramework_BlankPlugin.3gx** (rename it to -> `default.3gx`) and put in `sd:/luma/plugins/default.3gx`<br>
-https://cdn.discordapp.com/attachments/479233979271086090/803683617837940766/CTRPluginFramework_BlankPlugin.3gx<br>(here is the v0.7.0)<br>
+https://github.com/PabloMK7/CTRPluginFramework-BlankTemplate/releases/<br>
 3) Put your cheat files downloaded from **the actual repository** in `sd:/cheats/<tid>.txt`<br>
 4) Turn on your console, open Rosalina menu (L + Down + Select) and set **Plugin Loader:** to `Enabled`<br>
 5) Open your game, and push **Select** to open CTRPF<br>
@@ -27,9 +27,9 @@ https://cdn.discordapp.com/attachments/479233979271086090/803683617837940766/CTR
 
 or
 
-## II - Luma3DS (Rosalina menu)
+## II - Luma3DS (Rosalina menu) [DEPRECATED]
 1) Download **Luma3DS** and put to `sd:/boot.firm` (must already be on your console):
-https://github.com/AuroraWright/Luma3DS/releases<br>
+https://github.com/AuroraWright/Luma3DS/releases/<br>
 2) Put your cheat files from **the actual post** in `sd:/luma/titles/<tid>/cheats.txt`<br>
 3) Open your game and open **Rosalina menu**<br>
 4) Open **Cheats...** menu, and **check** ❎ your FPS cheat<br>
@@ -40,5 +40,5 @@ https://github.com/AuroraWright/Luma3DS/releases<br>
 
 # Contributing
 If you want to contribute:<br>
--**To make your cheats**, see under the <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/#post-8831465">original post</a> for some links to tutorials<br>
+-**To make your cheats**, see bellow the <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/#post-8831465">original post</a> for some links to tutorials<br>
 -**To add your cheats**, send on our <a href="https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/">GBATemp</a>/<a href="https://discord.gg/HSFX37b">Discord</a> or make a pull requests.
