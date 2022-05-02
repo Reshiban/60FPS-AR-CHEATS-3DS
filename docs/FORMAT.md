@@ -3,9 +3,21 @@
 You can use it to make a cheat for this repo<br>
 
 ### ⚠WARNING: **REAL 3DS + CTRPF NEEDED**⚠<br>
+
+## Summary
+
+* Structure
+  * Structure basical
+  * Structure 30FPS/60FPS
+  * Structure version
+  * Structure author
+  * Structure global
+* Codes
+* Descriptions
+
 # Cheats structure
 
-## Basical structure
+## Structure basical
 The basical cheat structure is:
 ```
 ./
@@ -14,12 +26,11 @@ The basical cheat structure is:
 ./FPS/[60FPS] ▣
 ./FPS/[Default 30FPS] ▣
 ```
-The game runs 30FPS by default.
+![CTRPF Pokemon Sun/Moon Demo 1](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS/raw/Reshiban-wave-adds-2/docs/img/CTRPF_basical_up_1.bmp) ![CTRPF Pokemon Sun/Moon Demo 2](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS/raw/Reshiban-wave-adds-2/docs/img/CTRPF_basical_up_2.bmp)<br>
+The game runs 30FPS by default.<br>
+<br>
 
-\*insert a picture\*<br>
-<br><br>
-
-## 30FPS/60FPS structure
+## Structure 30FPS/60FPS
 Examples **above** are for **30FPS -> 60FPS**<br>
 Some games are 60FPS by default, and cheats turn them to 30FPS, in this case:
 ### 60FPS -> 30FPS
@@ -35,7 +46,7 @@ If _Default_ isn't precised, this means the default FPS isn't yet determinated.
 \*insert a picture\*<br>
 <br><br>
 
-## Version structure
+## Structure version
 A game could have some versions. In this case, some changes are applied:
 ```
 ./
@@ -52,7 +63,7 @@ A game could have some versions. In this case, some changes are applied:
 \*insert a picture\*<br>
 <br><br>
 
-## Author structure
+## Structure author
 Sometimes, some people find different working cheats for the same game.<br>
 In this case, the structure will be:
 ```
@@ -71,7 +82,7 @@ In this case, the structure will be:
 \*insert a picture\*<br>
 <br><br>
 
-## Global structure
+## Structure global
 In the case all these conditions are applied, it should looks like that:
 ```
 ./
