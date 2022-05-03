@@ -53,11 +53,11 @@ A game could have some versions. In this case, some changes are applied:
 🗋 ./[60FPS v1.x (Hold R button for 30FPS)] ▣
 📁./FPS/
 📁./FPS/[v1.x]/
-🗋 ./FPS/[v1.x]/[60FPS] ▣
-🗋 ./FPS/[v1.x]/[Default 30FPS] ▣
+🗋 ./FPS/[v1.x]/[60FPS v1.x] ▣
+🗋 ./FPS/[v1.x]/[Default 30FPS v1.x] ▣
 📁./FPS/[v1.0]/
-🗋 ./FPS/[v1.0]/[60FPS] ▣
-🗋 ./FPS/[v1.0]/[Default 30FPS] ▣
+🗋 ./FPS/[v1.0]/[60FPS v1.0] ▣
+🗋 ./FPS/[v1.0]/[Default 30FPS v1.0] ▣
 ```
 
 \*insert a picture\*<br>
@@ -91,18 +91,18 @@ In the case all these conditions are applied, it should looks like that:
 📁./FPS/
 📁./FPS/[Author A]/
 📁./FPS/[Author A]/[v1.x]/
-🗋 ./FPS/[Author A]/[v1.x]/[60FPS] ▣
-🗋 ./FPS/[Author A]/[v1.x]/[Default 30FPS] ▣
+🗋 ./FPS/[Author A]/[v1.x]/[60FPS v1.x] ▣
+🗋 ./FPS/[Author A]/[v1.x]/[Default 30FPS v1.x] ▣
 📁./FPS/[Author A]/[v1.0]/
-🗋 ./FPS/[Author A]/[v1.0]/[60FPS] ▣
-🗋 ./FPS/[Author A]/[v1.0]/[Default 30FPS] ▣
+🗋 ./FPS/[Author A]/[v1.0]/[60FPS v1.0] ▣
+🗋 ./FPS/[Author A]/[v1.0]/[Default 30FPS v1.0] ▣
 📁./FPS/[Author B]/
 📁./FPS/[Author B]/[v1.x]/
-🗋 ./FPS/[Author B]/[v1.x]/[60FPS] ▣
-🗋 ./FPS/[Author B]/[v1.x]/[Default 30FPS] ▣
+🗋 ./FPS/[Author B]/[v1.x]/[60FPS v1.x] ▣
+🗋 ./FPS/[Author B]/[v1.x]/[Default 30FPS v1.x] ▣
 📁./FPS/[Author B]/[v1.0]/
-🗋 ./FPS/[Author B]/[v1.0]/[60FPS] ▣
-🗋 ./FPS/[Author B]/[v1.0]/[Default 30FPS] ▣
+🗋 ./FPS/[Author B]/[v1.0]/[60FPS v1.0] ▣
+🗋 ./FPS/[Author B]/[v1.0]/[Default 30FPS v1.0] ▣
 ```
 
 \*insert a picture\*<br>
