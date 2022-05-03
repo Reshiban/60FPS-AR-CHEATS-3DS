@@ -110,7 +110,25 @@ In the case all these conditions are applied, it should looks like that:
 
 # Cheats codes
 
-## [60FPS (Hold R button for 30FPS)]
+## Cheat [60FPS]
+```
+[60FPS]
+XXXXXXXX YYYYYYYY  //ADDRESS VALUE for 60FPS
+```
+Basical cheat to set game to 60FPS.<br>
+\*insert a picture\*<br><br>
+
+## Cheat [60FPS] (offset < 100000000)
+```
+[30FPS]
+D3000000 XXXXXXXX  //Set offset
+XXXXXXXX YYYYYYYY  //ADDRESS VALUE for 30FPS
+D0000000 00000000  //End "if" condition
+```
+Basical cheat to set game to 30FPS.<br>
+\*insert a picture\*<br><br>
+
+## Cheat [60FPS (Hold R button for 30FPS)]
 ```
 [60FPS (Hold R button for 30FPS)]
 D3000000 XXXXXXXX  //Set offset
