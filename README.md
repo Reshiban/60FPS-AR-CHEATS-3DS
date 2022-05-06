@@ -1,7 +1,9 @@
 **Under construction...**<br>
 
 # 60FPS-AR-CHEATS-3DS
-Here, you can find AR cheats which allow you to change the FPS of your 3DS games<br>
+Here, you can find AR cheats which allow you to change FPS of your 3DS games.<br>
+A lot of cheats are available, hope you'll find for your game !
+### ⚠WARNING: 60FPS CHEATS ARE NOT PERF IMPROVERS FOR EMULATORS⚠
 
 ## Links
 This database is based on a **GBATemp thread** created by **@Hazerou**:<br>
@@ -11,8 +13,9 @@ And also **chinese site** (CHN and JPN list) by **@lucky**:<br>
 https://game.ali213.net/thread-6576428-1-1.html<br>
 
 ## Docs
-`FORMAT.md` to understand the cheats format.<br>
-`STATUS.md` to check the cheats status.
+Some docs are available on the repo:<br>
+[`FORMAT.md`](./docs/FORMAT.md) to understand the cheats format used for CTRPF.<br>
+[`STATUS.md`](./docs/STATUS.md) to check the cheats status in table form.
 
 ---
 
@@ -37,7 +40,7 @@ https://github.com/AuroraWright/Luma3DS/releases/<br>
 3) Open your game and open **Rosalina menu**<br>
 4) Open **Cheats...** menu, and **check** ❎ your FPS cheat<br>
 5) Resume the game<br><br>
-**(NOTE: Preferably use CTRPF, Rosalina can't use folder function which is important here)**
+**(NOTE: Preferably use CTRPF, Rosalina doesn't support folder function and CTRPF syntax)**
 
 ---
 
