@@ -33,3 +33,173 @@
 | [Dragon Quest VIII - Journey of the Cursed King (EUR)](../Cheats/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20(EUR)/000400000018F200.txt) | ?  | ? |  | ✅❌ | @lucky |
 | [Dragon Quest VIII - Journey of the Cursed King (USA)](../Cheats/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20(USA)/000400000018F100.txt) | ❌ faster | 30FPS |  | ✅❌  | @NanashiFinal13 @lucky |
 | [Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi (JPN)](../Cheats/Dragon%20Quest%20VIII%20-%20Sora%20to%20Umi%20to%20Daichi%20to%20Norowareshi%20Himegimi%20(JPN)/000400000015CD00.txt) | ❌ faster | 30FPS |  | ✅❌  | @NanashiFinal13 @lucky |
+| [Dragon Sinker (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [E.X. Troopers (English Patched)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [E.X. Troopers (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey 2 Untold - The Fafnir Knight (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey 2 Untold - The Fafnir Knight (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey IV - Legends of the Titan (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey IV - Legends of the Titan (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey Nexus (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey Nexus (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey Untold - The Millennium Girl (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey Untold - The Millennium Girl (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey V - Beyond the Myth (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Etrian Odyssey V - Beyond the Myth (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Ever Oasis (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fantasy Life (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fast & Furious - Showdown (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Final Fantasy Explorers (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Final Fantasy Explorers (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Final Fantasy Explorers (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem - Awakening (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem - Awakening (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem - Awakening (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem Echoes - Shadows of Valentia (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem Fates - Special Edition (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem Fates - Special Edition (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem if - Special Edition (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fire Emblem Warriors (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Fossil Fighters Frontier (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Gabrielle's Ghostly Groove 3D (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Gaist Crusher God (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Girls Mode 4 - Star & Stylist (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Harvest Moon 3D - A New Beginning (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Harvest Moon 3D - A New Beginning (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Hey! Pikmin (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Hey! Pikmin (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Hey! Pikmin (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Hyrule Warriors Legends (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven GO - Chrono Stones - Thunderflash (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven GO - Chrono Stones - Wildfire (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven Go - Light (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven Go - Shadow (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven Go 2 - Chrono Stone - Neppuu (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven Go 2 - Chrono Stone - Raimei (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven Go Galaxy - Big Bang (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Inazuma Eleven Go Galaxy - Supernova (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Infinite Dunamis (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Journey To Kreisia (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Justice Chronicles (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Kenka Banchou 6 - Soul & Blood (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Kingdom Hearts 3D (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Kingdom Hearts 3D (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Labyrinth No Kanata (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Legna Tactica (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [LEGO City Undercover - The Chase Begins (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [LEGO The Hobbit (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [LEGO The Lord of the Rings (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Lord of Magna - Maiden Heaven (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Luigi's Mansion (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Luigi's Mansion (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Machine Knights (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mario Kart 7 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mario Kart 7 (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mario Kart 7 (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Megami Meguri (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Metal Gear Solid 3D (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mii Maker (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mii Maker (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Miitopia (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Miitopia (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Miitopia (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [MonHun Nikki - Poka Poka Airu Murai DX (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Mononoke Forest (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 3 Ultimate (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 3 Ultimate (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 3 Ultimate (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 4 Ultimate (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 4 Ultimate (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 4 Ultimate (KOR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter 4 Ultimate (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter Generations (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter Stories (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter Stories (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Monster Hunter Stories (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [My Hero Academia - Battle For All (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Style Boutique 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Style Boutique 3 - Styling Star (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Super Mario Bros 2 - Gold Edition (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Super Mario Bros 2 - Special Edition (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Super Mario Bros 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Super Mario Bros 2 (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [New Super Mario Bros 2 (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Nintendo Badge Arcade (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [One Piece - Super Grand Battle X (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [One Piece - Unlimited Cruise SP 1 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [One Piece - Unlimited Cruise SP 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [One Piece - Unlimited World Red (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [One Piece - Unlimited World Red (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Persona Q - Shadow of the Labyrinth (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Persona Q - Shadow of the Labyrinth (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Persona Q - Shadow of the Labyrinth (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Persona Q2 - New Cinema Labyrinth  (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Persona Q2 - New Cinema Labyrinth (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Persona Q2 - New Cinema Labyrinth (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Phoenix Wright - Ace Attorney Dual Destinies (UNDUB)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Phoenix Wright - Ace Attorney Dual Destinies (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Phoenix Wright - Ace Attorney Spirit of Justice (UNDUB)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Phoenix Wright - Ace Attorney Spirit of Justice (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Planet Crashers (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Alpha Sapphire (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Alpha Sapphire (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Moon (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Moon (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Mystery Dungeon - Gates to Infinity (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Mystery Dungeon - Gates to Infinity (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Mystery Dungeon - Gates to Infinity (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Omega Ruby (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Omega Ruby (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Sun (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Sun (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Sun and Moon Special DEMO (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Sun and Moon Special DEMO (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Ultra Moon (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Ultra Moon (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Ultra Sun (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Ultra Sun (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon X (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon X (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Y (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Pokémon Y (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Professeur Layton et le Masque des Miracles (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Professor Layton vs Phoenix Wright - Ace Attorney (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Radiant Historia - Perfect Chronology (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Radiant Historia - Perfect Chronology (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Radiant Historia - Perfect Chronology (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Saiki Kusuo no Psi Nan - Shijou Psi Dai no Psi Nan (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Samurai Warriors Chronicles (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Samurai Warriors Chronicles (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sekaiju no Meikyuu IV - Denshou no Kyoshin (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sekaiju no Meikyuu V - Nagaki Shinwa no Hate (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sekaiju no Meikyuu X (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sengoku Musou Chronicle (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sengoku Musou Chronicle 2nd (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sengoku Musou Chronicle 3rd (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Senran Kagura 2 - Deep Crimson (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Severed (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei - Devil Summoner - Soul Hackers (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei - Devil Summoner - Soul Hackers (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei - Devil Survivor Overclocked (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei - Strange Journey Redux (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei IV (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei IV (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei IV Apocalypse (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei IV Apocalypse (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Megami Tensei IV Final (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Sangoku Musou VS (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Sekaiju no Meikyuu - Millennium no Shoujo (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Shokugeki No Soma (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sonic Lost World (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Story of Seasons - Trio of Towns (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Story of Seasons - Trio of Towns (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Story of Seasons (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Story of Seasons (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [StreetPass Mii Plaza (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Style Savvy - Fashion Forward (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
