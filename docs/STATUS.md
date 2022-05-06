@@ -3,6 +3,6 @@
 
 # Table
 
-| Game title | Game runs | Checked | Author |
-| ---------- | ----------- | ------------ | ------ |
-| Alphadia (USA) | ❌ faster | ✅ all | @Hazerou |
+| Game title | Game speed | FPS default | Bug | Checked | Author |
+| ---------- | ---------- | :---------: | --- | ------- | ------ |
+| Alphadia (USA) | ❌ faster | 20FPS |  | ✅ all | @Hazerou |
