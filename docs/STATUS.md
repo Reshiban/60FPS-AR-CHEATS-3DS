@@ -29,7 +29,7 @@
 | [Dragon Lapis (USA)](../Cheats/Dragon%20Lapis%20(USA)/00040000001D3500.txt) | ❌ faster | 30FPS |  | ✅❌  | @Hazerou |
 | [Dragon Quest Monsters - Terry's Wonderland 3D (JPN)](../Cheats/Dragon%20Quest%20Monsters%20-%20Terry's%20Wonderland%203D%20(JPN)/0004000000074600.txt) | ❌ faster | 30FPS |  | ✅❌  | @blizzardy |
 | [Dragon Quest Monsters - Terry's Wonderland 3D (English Patched)](../Cheats/Dragon%20Quest%20Monsters%20-%20Terry's%20Wonderland%203D%20(English%20Patched)/0004000000074600.txt) | ❌ faster | 30FPS |  | ✅❌  | @Hazerou |
-| [Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (JPN)](../Cheats/Dragon%20Quest%20Monsters%202%20-%20Iru%20to%20Ruka%20no%20Fushigi%20na%20Fushigi%20na%20Kagi%20(JPN)/00040000000CF500.txt) | ✅❌  | 30FPS |  | ❌ faster | @blizzardy |
-| [Dragon Quest VIII - Journey of the Cursed King (EUR)](../Cheats/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20(EUR)/000400000018F200.txt) | ?  | ? |  | ❌ faster | @lucky |
+| [Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (JPN)](../Cheats/Dragon%20Quest%20Monsters%202%20-%20Iru%20to%20Ruka%20no%20Fushigi%20na%20Fushigi%20na%20Kagi%20(JPN)/00040000000CF500.txt) | ❌ faster | 30FPS |  | ✅❌ | @blizzardy |
+| [Dragon Quest VIII - Journey of the Cursed King (EUR)](../Cheats/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20(EUR)/000400000018F200.txt) | ?  | ? |  | ✅❌ | @lucky |
 | [Dragon Quest VIII - Journey of the Cursed King (USA)](../Cheats/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20(USA)/000400000018F100.txt) | ❌ faster | 30FPS |  | ✅❌  | @NanashiFinal13 @lucky |
 | [Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi (JPN)](../Cheats/Dragon%20Quest%20VIII%20-%20Sora%20to%20Umi%20to%20Daichi%20to%20Norowareshi%20Himegimi%20(JPN)/000400000015CD00.txt) | ❌ faster | 30FPS |  | ✅❌  | @NanashiFinal13 @lucky |
