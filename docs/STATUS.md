@@ -203,3 +203,59 @@
 | [Story of Seasons (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
 | [StreetPass Mii Plaza (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
 | [Style Savvy - Fashion Forward (USA)](../Cheats/) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Style Savvy - Styling Star (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sumikko Gurashi - Koko Dokonan Desu (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sumikko Gurashi - Koko ga Ochitsukundesu (English Patched) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sumikko Gurashi - Koko ga Ochitsukundesu (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sumikko Gurashi - Mura o Tsukurundesu (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sumikko Gurashi - Omise Hajimerundesu (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Mario 3D Land (CHN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Mario 3D Land (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Mario 3D Land (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Mario 3D Land (TWN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Mario 3D Land (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Smash Bros for 3DS (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Smash Bros for 3DS (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Street Fighter IV - 3D Edition (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Super Street Fighter IV - 3D Edition (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Sushi Striker - The Way of Sushido (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Symphony of Eternity (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Taiko no Tatsujin - Don Don Mystery Adventure (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tales of the Abyss (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tales of the Abyss (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tetris Axis (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [The Great Ace Attorney 1 (English Patched) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [The Great Ace Attorney 2 (English Patched) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [The Legend of Zelda - A Link Between Worlds (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [The Legend of Zelda - Majoras Mask 3D (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [The Snack World - Trejarers (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tobidase Doubutsu no Mori - amiibo (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tomodachi Life (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tomodachi Life (KOR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Tomodachi Life (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Unchained Blades (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Undead Storm Nightmare (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Unlucky Mage (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Wild West 3D (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 1 (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 1 (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 1 (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 2 - Bony Spirits (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 2 - Psychic Specters (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 2 - Psychic Specters (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 3 (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch 3 (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch Blasters - Red Cat Corps (EUR) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch Blasters - Red Cat Corps (Pre-Patched) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-Kai Watch Blasters - Red Cat Corps (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (Pre-Patched) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Sangokushi (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Watch 2 - Shinuchi (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Watch 3 - Sukiyaki (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Watch Busters - Akanekodan (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Watch Busters - Shiroinutai (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (JPN) | ✅❌  | 0FPS |  | ✅❌  | @ |
+| [Zero Escape - Zero Time Dilemma (USA) | ✅❌  | 0FPS |  | ✅❌  | @ |
