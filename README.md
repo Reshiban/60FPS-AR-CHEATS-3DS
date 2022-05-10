@@ -1,9 +1,7 @@
-**Under construction...**<br>
-
 # 60FPS-AR-CHEATS-3DS
 Here, you can find AR cheats which allow you to change FPS of your 3DS games.<br>
 A lot of cheats are available, hope you'll find for your game !
-### ⚠WARNING: 60FPS CHEATS ARE NOT PERF IMPROVERS FOR EMULATORS⚠
+### ⚠WARNING: 60FPS CHEATS ARE NOT CITRA PERF IMPROVERS⚠
 
 ## Links
 This database is based on a **GBATemp thread** created by **@Hazerou**:<br>
@@ -13,9 +11,8 @@ And also **chinese site** (CHN and JPN list) by **@lucky**:<br>
 https://game.ali213.net/thread-6576428-1-1.html<br>
 
 ## Docs
-Some docs are available on the repo:<br>
-[`FORMAT.md`](./docs/FORMAT.md) to understand the cheats format used for CTRPF.<br>
-[`STATUS.md`](./docs/STATUS.md) to check the cheats status in table form.
+**-** [`FORMAT.md`](./docs/FORMAT.md) to understand the cheats format used for CTRPF.<br>
+**-** [`STATUS.md`](./docs/STATUS.md) to check the cheats status in table form.
 
 ---
 
@@ -31,7 +28,7 @@ https://github.com/PabloMK7/CTRPluginFramework-BlankTemplate/releases/<br>
 6) Go in the **ActionReplay** section, and **check** ✅ your FPS cheat
 7) Resume the game<br>
 
-or
+or...
 
 ## II - Luma3DS (Rosalina menu) [DEPRECATED]
 1) Download **Luma3DS** and put to `sd:/boot.firm` (must already be on your console):
