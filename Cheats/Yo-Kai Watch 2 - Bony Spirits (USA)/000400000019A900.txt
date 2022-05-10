@@ -1,4 +1,4 @@
-[60 FPS v2.0 fix (Hold R button for 30FPS)]
+[60FPS v2.0 fix (Hold R button for 30FPS)]
 D3000000 00000000
 20851F7D 00000001
 DD000000 00000100
@@ -22,14 +22,7 @@ Codes by @Hazerou}
 
 [++v2.0++]
 
-[60 FPS v2.0]
-D3000000 00000000
-20851F7D 00000001
-D2000000 00000000
-{Unstable, may freeze the game.
-Codes by @Hazerou}
-
-[60 FPS v2.0 fix]
+[60FPS v2.0 fix]
 D3000000 00000000
 20851F7D 00000001
 50851F9C 08B1B7E0
@@ -43,10 +36,17 @@ A0851FA0 00000023
 80851FA0 00000020
 20851F7D 00000002
 D2000000 00000000
-{Fix screen freezing from Cutscenes and Battles by applying 30FPS.
+{Fix screen freezing during cutscenes/battles by applying 30FPS.
 Codes by @Hazerou}
 
-[30 FPS v2.0]
+[60FPS v2.0]
+D3000000 00000000
+20851F7D 00000001
+D2000000 00000000
+{Unstable, may freeze the game.
+Codes by @Hazerou}
+
+[30FPS v2.0]
 20851F7D 00000002
 {Codes by @Hazerou}
 
@@ -54,12 +54,7 @@ Codes by @Hazerou}
 
 [++v1.0++]
 
-[60 FPS v1.0]
-2082394D 00000001
-{Unstable, may freeze the game.
-Codes by @Hazerou}
-
-[60 FPS v1.0 fix]
+[60FPS v1.0 fix]
 D3000000 00000000
 2082394D 00000001
 5082396C 08C097E0
@@ -73,10 +68,15 @@ A0823970 00000020
 80823970 0000001E
 2082394D 00000002
 D2000000 00000000
-{Fix screen freezing from Cutscenes and Battles by applying 30FPS.
+{Fix screen freezing during cutscenes/battles by applying 30FPS.
 Codes by @Hazerou}
 
-[30 FPS v1.0]
+[60FPS v1.0]
+2082394D 00000001
+{Unstable, may freeze the game.
+Codes by @Hazerou}
+
+[30FPS v1.0]
 2082394D 00000002
 {Codes by @Hazerou}
 
