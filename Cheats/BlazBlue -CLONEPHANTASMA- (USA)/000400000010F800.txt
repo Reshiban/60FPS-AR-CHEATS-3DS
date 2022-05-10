@@ -18,8 +18,6 @@ Codes by @Hazerou}
 
 [Default 30FPS]
 2026B6B8 00000002
-{Game runs faster.
-Bugs, works occasionally.
-Codes by @Hazerou}
+{Codes by @Hazerou}
 
 [--]
