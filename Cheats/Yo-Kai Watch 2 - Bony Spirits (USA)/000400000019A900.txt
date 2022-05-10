@@ -46,7 +46,7 @@ D2000000 00000000
 {Unstable, may freeze the game.
 Codes by @Hazerou}
 
-[30FPS v2.0]
+[Default 30FPS v2.0]
 20851F7D 00000002
 {Codes by @Hazerou}
 
@@ -76,7 +76,7 @@ Codes by @Hazerou}
 {Unstable, may freeze the game.
 Codes by @Hazerou}
 
-[30FPS v1.0]
+[Default 30FPS v1.0]
 2082394D 00000002
 {Codes by @Hazerou}
 
