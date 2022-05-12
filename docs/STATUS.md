@@ -60,26 +60,26 @@
 | [Fire Emblem Fates - Special Edition (USA)](../Cheats/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA)/0004000000179800.txt) | ❌ faster | 30FPS |  | ❌ no  | @NanashiFinal13 |
 | [Fire Emblem if - Special Edition (JPN)](../Cheats/Fire%20Emblem%20if%20-%20Special%20Edition%20(JPN)/000400000012DE00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
 | [Fire Emblem Warriors (USA)](../Cheats/Fire%20Emblem%20Warriors%20(USA)/000400000F70CC00.txt) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
-| [Fossil Fighters Frontier (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Gabrielle's Ghostly Groove 3D (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Gaist Crusher God (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Girls Mode 4 - Star & Stylist (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Harvest Moon 3D - A New Beginning (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Harvest Moon 3D - A New Beginning (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Hey! Pikmin (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Hey! Pikmin (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Hey! Pikmin (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Hyrule Warriors Legends (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven GO - Chrono Stones - Thunderflash (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven GO - Chrono Stones - Wildfire (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven Go - Light (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven Go - Shadow (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven Go 2 - Chrono Stone - Neppuu (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven Go 2 - Chrono Stone - Raimei (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven Go Galaxy - Big Bang (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Inazuma Eleven Go Galaxy - Supernova (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Infinite Dunamis (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Journey To Kreisia (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
+| [Fossil Fighters Frontier (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Gabrielle's Ghostly Groove 3D (USA)](../Cheats/) | ?  | 30FPS |  | ❌ no  | @Hazerou |
+| [Gaist Crusher God (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Girls Mode 4 - Star & Stylist (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Harvest Moon 3D - A New Beginning (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Harvest Moon 3D - A New Beginning (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Hey! Pikmin (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Hey! Pikmin (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Hey! Pikmin (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Hyrule Warriors Legends (JPN)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Inazuma Eleven GO - Chrono Stones - Thunderflash (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven GO - Chrono Stones - Wildfire (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven Go - Light (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven Go - Shadow (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven Go 2 - Chrono Stone - Neppuu (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven Go 2 - Chrono Stone - Raimei (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven Go Galaxy - Big Bang (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Inazuma Eleven Go Galaxy - Supernova (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Infinite Dunamis (USA)](../Cheats/) | ❌ faster | 20FPS |  | ❌ no  | @Hazerou |
+| [Journey To Kreisia (USA)](../Cheats/) | ❌ faster | 15FPS |  | ❌ no  | @Hazerou |
 | [Justice Chronicles (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [Kenka Banchou 6 - Soul & Blood (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [Kingdom Hearts 3D (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
