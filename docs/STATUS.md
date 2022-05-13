@@ -94,40 +94,40 @@
 | [Luigi's Mansion (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Reshiban @monkeyman4412 |
 | [Luigi's Mansion (USA)](../Cheats/) | ✅ normal  | 30FPS |  | ❌ no  | @Hazerou @NanashiFinal13 |
 | [Machine Knights (USA)](../Cheats/) | ❌ faster | 20FPS |  | ❌ no  | @Hazerou |
-| [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mario Kart 7 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mario Kart 7 (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mario Kart 7 (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Megami Meguri (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Metal Gear Solid 3D (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mii Maker (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mii Maker (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Miitopia (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Miitopia (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Miitopia (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [MonHun Nikki - Poka Poka Airu Murai DX (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Mononoke Forest (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 3 Ultimate (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 3 Ultimate (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 3 Ultimate (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 4 Ultimate (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 4 Ultimate (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 4 Ultimate (KOR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter 4 Ultimate (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter Generations (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter Stories (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter Stories (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Monster Hunter Stories (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [My Hero Academia - Battle For All (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Style Boutique 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Style Boutique 3 - Styling Star (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Super Mario Bros 2 - Gold Edition (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Super Mario Bros 2 - Special Edition (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Super Mario Bros 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Super Mario Bros 2 (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [New Super Mario Bros 2 (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Nintendo Badge Arcade (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
+| [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Shay |
+| [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (USA)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Shay |
+| [Mario Kart 7 (EUR)](../Cheats/) | ❌ slower | 60FPS |  | ❌ no  | @lucky |
+| [Mario Kart 7 (JPN)](../Cheats/) | ❌ slower | 60FPS |  | ❌ no  | @lucky |
+| [Mario Kart 7 (USA)](../Cheats/) | ❌ slower | 60FPS |  | ❌ no  | @lucky |
+| [Megami Meguri (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Metal Gear Solid 3D (USA)](../Cheats/) | ? | 20FPS |  | ❌ no  | @Hazerou |
+| [Mii Maker (EUR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Mii Maker (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Miitopia (EUR)](../Cheats/) | ? | 60FPS |  | ❌ no  | @lucky |
+| [Miitopia (JPN)](../Cheats/) | ? | 60FPS |  | ❌ no  | @lucky |
+| [Miitopia (USA)](../Cheats/) | ? | 60FPS |  | ❌ no  | @lucky |
+| [MonHun Nikki - Poka Poka Airu Murai DX (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Mononoke Forest (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Monster Hunter 3 Ultimate (EUR)](../Cheats/) | ? | 3000FPS |  | ❌ no  | @Hazerou |
+| [Monster Hunter 3 Ultimate (JPN)](../Cheats/) | ? | 3000FPS |  | ❌ no  | @mikewii |
+| [Monster Hunter 3 Ultimate (USA)](../Cheats/) | ? | 3000FPS |  | ❌ no  | @Hazerou |
+| [Monster Hunter 4 Ultimate (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Monster Hunter 4 Ultimate (JPN)](../Cheats/) | ? | 60FPS |  | ❌ no  | @mikewii |
+| [Monster Hunter 4 Ultimate (KOR)](../Cheats/) | ? | 60FPS |  | ❌ no  | @mikewii |
+| [Monster Hunter 4 Ultimate (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Monster Hunter Generations (EUR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @mikewii |
+| [Monster Hunter Stories (EUR)](../Cheats/) | ? | 200FPS |  | ❌ no  | @blizzardy |
+| [Monster Hunter Stories (JPN)](../Cheats/) | ? | 200FPS |  | ❌ no  | @blizzardy @Deathmaw |
+| [Monster Hunter Stories (USA)](../Cheats/) | ? | 200FPS |  | ❌ no  | @blizzardy |
+| [My Hero Academia - Battle For All (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [New Style Boutique 2 (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Reshiban |
+| [New Style Boutique 3 - Styling Star (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
+| [New Super Mario Bros 2 - Gold Edition (USA)](../Cheats/) | ? | 60+FPS |  | ❌ weird  | @Hazerou |
+| [New Super Mario Bros 2 - Special Edition (EUR)](../Cheats/) | ✅ normal | 60+FPS |  | ❌ no  | @Reshiban |
+| [New Super Mario Bros 2 (EUR)](../Cheats/) | ? | 60+FPS |  | ❌ weird  | @lucky |
+| [New Super Mario Bros 2 (JPN)](../Cheats/) | ? | 60+FPS |  | ❌ weird  | @lucky |
+| [New Super Mario Bros 2 (USA)](../Cheats/) | ? | 60+FPS |  | ❌ weird  | @lucky |
+| [Nintendo Badge Arcade (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
 | [One Piece - Super Grand Battle X (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [One Piece - Unlimited Cruise SP 1 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [One Piece - Unlimited Cruise SP 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
