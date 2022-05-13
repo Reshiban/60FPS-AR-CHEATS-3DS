@@ -80,20 +80,20 @@
 | [Inazuma Eleven Go Galaxy - Supernova (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
 | [Infinite Dunamis (USA)](../Cheats/) | ❌ faster | 20FPS |  | ❌ no  | @Hazerou |
 | [Journey To Kreisia (USA)](../Cheats/) | ❌ faster | 15FPS |  | ❌ no  | @Hazerou |
-| [Justice Chronicles (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Kenka Banchou 6 - Soul & Blood (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Kingdom Hearts 3D (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Kingdom Hearts 3D (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Labyrinth No Kanata (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Legna Tactica (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [LEGO City Undercover - The Chase Begins (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [LEGO The Hobbit (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [LEGO The Lord of the Rings (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Lord of Magna - Maiden Heaven (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Luigi's Mansion (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Luigi's Mansion (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Machine Knights (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
+| [Justice Chronicles (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Kenka Banchou 6 - Soul & Blood (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @NanashiFinal13 |
+| [Kingdom Hearts 3D (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Kingdom Hearts 3D (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Labyrinth No Kanata (JPN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Reshiban |
+| [Legna Tactica (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [LEGO City Undercover - The Chase Begins (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [LEGO The Hobbit (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
+| [LEGO The Lord of the Rings (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
+| [Lord of Magna - Maiden Heaven (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Luigi's Mansion (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Reshiban @monkeyman4412 |
+| [Luigi's Mansion (USA)](../Cheats/) | ✅ normal  | 30FPS |  | ❌ no  | @Hazerou @NanashiFinal13 |
+| [Machine Knights (USA)](../Cheats/) | ❌ faster | 20FPS |  | ❌ no  | @Hazerou |
 | [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [Mario & Luigi - Bowsers Inside Story + Bowser Jrs Journey (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [Mario Kart 7 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
