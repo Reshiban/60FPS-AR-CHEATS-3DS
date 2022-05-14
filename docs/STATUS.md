@@ -128,48 +128,48 @@
 | [New Super Mario Bros 2 (JPN)](../Cheats/) | ? | 60+FPS |  | ❌ weird  | @lucky |
 | [New Super Mario Bros 2 (USA)](../Cheats/) | ? | 60+FPS |  | ❌ weird  | @lucky |
 | [Nintendo Badge Arcade (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
-| [One Piece - Super Grand Battle X (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [One Piece - Unlimited Cruise SP 1 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [One Piece - Unlimited Cruise SP 2 (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [One Piece - Unlimited World Red (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [One Piece - Unlimited World Red (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Persona Q - Shadow of the Labyrinth (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Persona Q - Shadow of the Labyrinth (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Persona Q - Shadow of the Labyrinth (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Persona Q2 - New Cinema Labyrinth  (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Persona Q2 - New Cinema Labyrinth (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Persona Q2 - New Cinema Labyrinth (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Phoenix Wright - Ace Attorney Dual Destinies (UNDUB)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Phoenix Wright - Ace Attorney Dual Destinies (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Phoenix Wright - Ace Attorney Spirit of Justice (UNDUB)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Phoenix Wright - Ace Attorney Spirit of Justice (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Planet Crashers (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Alpha Sapphire (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Alpha Sapphire (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Moon (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Moon (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Mystery Dungeon - Gates to Infinity (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Mystery Dungeon - Gates to Infinity (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Mystery Dungeon - Gates to Infinity (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Omega Ruby (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Omega Ruby (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Sun (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Sun (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Sun and Moon Special DEMO (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Sun and Moon Special DEMO (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Ultra Moon (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Ultra Moon (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Ultra Sun (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Ultra Sun (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon X (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon X (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Y (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Pokémon Y (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Professeur Layton et le Masque des Miracles (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Professor Layton vs Phoenix Wright - Ace Attorney (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Radiant Historia - Perfect Chronology (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Radiant Historia - Perfect Chronology (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
-| [Radiant Historia - Perfect Chronology (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
+| [One Piece - Super Grand Battle X (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [One Piece - Unlimited Cruise SP 1 (EUR)](../Cheats/) | ❌ mostly faster | 30FPS |  | ❌ no  | @Hazerou |
+| [One Piece - Unlimited Cruise SP 2 (EUR)](../Cheats/) | ❌ mostly faster | 30FPS |  | ❌ no  | @Hazerou |
+| [One Piece - Unlimited World Red (EUR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [One Piece - Unlimited World Red (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Persona Q - Shadow of the Labyrinth (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Persona Q - Shadow of the Labyrinth (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Persona Q - Shadow of the Labyrinth (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Persona Q2 - New Cinema Labyrinth (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Persona Q2 - New Cinema Labyrinth (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Persona Q2 - New Cinema Labyrinth (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Phoenix Wright - Ace Attorney Dual Destinies (UNDUB)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Phoenix Wright - Ace Attorney Dual Destinies (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Phoenix Wright - Ace Attorney Spirit of Justice (UNDUB)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Phoenix Wright - Ace Attorney Spirit of Justice (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Planet Crashers (EUR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Pokémon Alpha Sapphire (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Alpha Sapphire (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Moon (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Moon (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Mystery Dungeon - Gates to Infinity (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Pokémon Mystery Dungeon - Gates to Infinity (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @RT4K7x8t |
+| [Pokémon Mystery Dungeon - Gates to Infinity (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Pokémon Omega Ruby (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Omega Ruby (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Sun (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Sun (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Sun and Moon Special DEMO (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Sun and Moon Special DEMO (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Ultra Moon (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Ultra Moon (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Ultra Sun (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Ultra Sun (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon X (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon X (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Y (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Pokémon Y (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiabn |
+| [Professeur Layton et le Masque des Miracles (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @Reshiban |
+| [Professor Layton vs Phoenix Wright - Ace Attorney (EUR)](../Cheats/) | ✅ normal | 30FPS |  | ❌ no  | @luc_ha |
+| [Radiant Historia - Perfect Chronology (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Radiant Historia - Perfect Chronology (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Radiant Historia - Perfect Chronology (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
 | [Saiki Kusuo no Psi Nan - Shijou Psi Dai no Psi Nan (JPN)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [Samurai Warriors Chronicles (EUR)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
 | [Samurai Warriors Chronicles (USA)](../Cheats/) | ✅❌  | 0FPS |  | ❌ no  | @ |
