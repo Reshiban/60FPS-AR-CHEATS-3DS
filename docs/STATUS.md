@@ -258,4 +258,4 @@
 | [Youkai Watch Busters - Shiroinutai (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
 | [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
 | [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Zero Escape - Zero Time Dilemma (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 @lucky |
+| [Zero Escape - Zero Time Dilemma (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
