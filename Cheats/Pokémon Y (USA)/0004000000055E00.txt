@@ -21,6 +21,8 @@ Codes by @Reshiban}
 {Game runs faster.
 Codes by @Reshiban}
 
+[--]
+
 [++v1.0++]
 
 [60FPS v1.0]
@@ -68,5 +70,7 @@ D3000000 00000000
 D2000000 00000000
 {Adds the black lines in the Overworld and in Battle.
 Codes by @Reshiban and @Spooky}
+
+[--]
 
 [--]
