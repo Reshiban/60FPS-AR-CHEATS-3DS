@@ -6,16 +6,16 @@ You can use it to make a cheat for this repo<br>
 
 ## Summary
 
-* Structure
-  * Structure basical
-  * Structure 30FPS/60FPS
-  * Structure version
-  * Structure author
-  * Structure global
-* Codes
-* Descriptions
+* [I - Structure](#i---structure)
+  * [Structure basical](#structure-basical)
+  * [Structure 30FPS/60FPS](#structure-30fps60fps)
+  * [Structure version](#structure-version)
+  * [Structure author](#structure-author)
+  * [Structure global](#structure-global)
+* [II - Codes](#ii---codes)
+* [III - Descriptions](#iii---descriptions)
 
-# Cheats structure
+# I - Structure
 
 ## Structure basical
 The basical cheat structure is:
@@ -27,7 +27,7 @@ The basical cheat structure is:
 🗋 ./FPS/[Default 30FPS] ▣
 ```
 ![CTRPF Pokemon Sun/Moon Demo 1](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS/raw/Reshiban-wave-adds-2/docs/img/CTRPF_basical_up_1.bmp) ![CTRPF Pokemon Sun/Moon Demo 2](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS/raw/Reshiban-wave-adds-2/docs/img/CTRPF_basical_up_2.bmp)<br>
-The game runs 30FPS by default.<br>
+(the game runs 30FPS by default)<br>
 <br>
 
 ## Structure 30FPS/60FPS
@@ -108,7 +108,7 @@ In the case all these conditions are applied, it should looks like that:
 \*insert a picture\*<br>
 <br><br>
 
-# Cheats codes
+# II - Codes
 
 ## Cheat [60FPS]
 ```
@@ -139,6 +139,6 @@ D0000000 00000000  //End "if" condition
 ```
 
 
-# Cheats descriptions
+# III - Descriptions
 
 ##
