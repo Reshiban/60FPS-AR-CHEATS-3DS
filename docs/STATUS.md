@@ -170,92 +170,96 @@
 | [Radiant Historia - Perfect Chronology (EUR)](../Cheats/Radiant%20Historia%20-%20Perfect%20Chronology%20(EUR)/00040000001CD900.txt) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
 | [Radiant Historia - Perfect Chronology (JPN)](../Cheats/Radiant%20Historia%20-%20Perfect%20Chronology%20(JPN)/00040000001A0C00.txt) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
 | [Radiant Historia - Perfect Chronology (USA)](../Cheats/Radiant%20Historia%20-%20Perfect%20Chronology%20(USA)/00040000001C8F00.txt) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
-| [Saiki Kusuo no Psi Nan - Shijou Psi Dai no Psi Nan (JPN)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinal13 |
-| [Samurai Warriors Chronicles (EUR)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @lucky |
-| [Samurai Warriors Chronicles (USA)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinaly13 |
-| [Sekaiju no Meikyuu IV - Denshou no Kyoshin (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sekaiju no Meikyuu V - Nagaki Shinwa no Hate (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sekaiju no Meikyuu X (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sengoku Musou Chronicle (JPN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Sengoku Musou Chronicle 2nd (JPN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Sengoku Musou Chronicle 3rd (JPN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Senran Kagura 2 - Deep Crimson (USA)](../Cheats/) | ✅ mostly normal | 30FPS | :/ | ❌ no  | @Hazerou |
-| [Severed (USA)](../Cheats/) | ? | ?FPS | :/ | ❌ no  | @NanashiFinal13 |
-| [Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR)](../Cheats/) | ? | 60FPS |  | ❌ weird  | @lucky |
-| [Shin Megami Tensei - Devil Summoner - Soul Hackers (JPN)](../Cheats/) | ? | ?FPS |  | ❌ weird  | @lucky |
-| [Shin Megami Tensei - Devil Summoner - Soul Hackers (USA)](../Cheats/) | ❌ slower | ?FPS |  | ❌ weird  | @NanashiFinal13 |
-| [Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA)](../Cheats/) | ❌ faster | ?FPS |  | ❌ weird  | @NanashiFinal13 |
-| [Shin Megami Tensei - Devil Survivor Overclocked (USA)](../Cheats/) | ❌ faster | ?FPS |  | ❌ weird  | @NanashiFinal13 |
-| [Shin Megami Tensei - Strange Journey Redux (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Shin Megami Tensei IV (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Shin Megami Tensei IV (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Shin Megami Tensei IV Apocalypse (EUR)](../Cheats/) | ? | ?FPS |  | ❌ type?  | @NanashiFinal13 @lucky |
-| [Shin Megami Tensei IV Apocalypse (USA)](../Cheats/) | ? | ?FPS |  | ❌ type?  | @NanashiFinal13 @lucky |
-| [Shin Megami Tensei IV Final (JPN)](../Cheats/) | ? | ?FPS |  | ❌ type?  | @NanashiFinal13 @lucky |
-| [Shin Sangoku Musou VS (JPN)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinal13 |
-| [Shin Sekaiju no Meikyuu - Millennium no Shoujo (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Shokugeki No Soma (JPN)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @Hazerou |
-| [Sonic Lost World (USA)](../Cheats/) | ❌ faster | ?FPS |  | ❌ no  | @Voxel |
-| [Story of Seasons - Trio of Towns (EUR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Story of Seasons - Trio of Towns (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [Story of Seasons (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
-| [Story of Seasons (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [StreetPass Mii Plaza (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [Style Savvy - Fashion Forward (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Reshiban |
-| [Style Savvy - Styling Star (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky @Hazerou @Robz8 |
-| [Sumikko Gurashi - Koko Dokonan Desu (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sumikko Gurashi - Koko ga Ochitsukundesu (English Patched)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sumikko Gurashi - Koko ga Ochitsukundesu (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sumikko Gurashi - Mura o Tsukurundesu (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Sumikko Gurashi - Omise Hajimerundesu (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Super Mario 3D Land (CHN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Super Mario 3D Land (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
-| [Super Mario 3D Land (JPN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Super Mario 3D Land (TWN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Super Mario 3D Land (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
-| [Super Smash Bros for 3DS (EUR)](../Cheats/) | ? | 60FPS |  | ❌ no  | @lucky |
-| [Super Smash Bros for 3DS (USA)](../Cheats/) | ? | 60FPS |  | ❌ no  | @Hazerou |
-| [Super Street Fighter IV - 3D Edition (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @blizzardy |
-| [Super Street Fighter IV - 3D Edition (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
-| [Sushi Striker - The Way of Sushido (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [Symphony of Eternity (USA)](../Cheats/) | ❌ faster | 15FPS |  | ❌ no  | @Hazerou |
-| [Taiko no Tatsujin - Don Don Mystery Adventure (JPN)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @luc_ha |
-| [Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN)](../Cheats/) | ❌ faster | 60FPS |  | ❌ no  | @Reshiban |
-| [Tales of the Abyss (EUR)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
-| [Tales of the Abyss (USA)](../Cheats/) | ❌ faster | 30FPS |  | ❌ no  | @NanashiFinal13 |
-| [Tetris Axis (USA)](../Cheats/) | ✅ mostly normal | 30FPS |  | ❌ no  | @Hazerou |
-| [The Great Ace Attorney 1 (English Patched)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [The Great Ace Attorney 2 (English Patched)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [The Legend of Zelda - A Link Between Worlds (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [The Legend of Zelda - Majoras Mask 3D (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
-| [The Snack World - Trejarers (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
-| [Tobidase Doubutsu no Mori - amiibo (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Tomodachi Life (EUR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [Tomodachi Life (KOR)](../Cheats/) | ? | 30FPS |  | ❌ no  | @lucky |
-| [Tomodachi Life (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [Unchained Blades (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [Undead Storm Nightmare (USA)](../Cheats/) | ❌ faster(?) | 30FPS |  | ❌ no  | @Hazerou |
-| [Unlucky Mage (USA)](../Cheats/) | ❌ faster | 15FPS |  | ❌ no  | @Hazerou |
-| [Wild West 3D (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [Yo-Kai Watch 1 (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Yo-Kai Watch 1 (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Yo-Kai Watch 1 (USA)](../Cheats/) | ? | ?FPS |  | ❌ missing  | @NanashiFinal13 @lucky |
-| [Yo-Kai Watch 2 - Bony Spirits (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [Yo-Kai Watch 2 - Psychic Specters (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Yo-Kai Watch 2 - Psychic Specters (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 @lucky |
-| [Yo-Kai Watch 3 (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Yo-Kai Watch 3 (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 @lucky |
-| [Yo-Kai Watch Blasters - Red Cat Corps (EUR)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [Yo-Kai Watch Blasters - Red Cat Corps (Pre-Patched)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Yo-Kai Watch Blasters - Red Cat Corps (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @Hazerou |
-| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (Pre-Patched)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (USA)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Youkai Sangokushi (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
-| [Youkai Watch 2 - Shinuchi (JPN)](../Cheats/) | ? | 30FPS |  | ❌ no  | @Hazerou |
-| [Youkai Watch 3 - Sukiyaki (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Youkai Watch Busters - Akanekodan (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Youkai Watch Busters - Shiroinutai (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (JPN)](../Cheats/) | ? | ?FPS |  | ❌ no  | @lucky |
-| [Zero Escape - Zero Time Dilemma (USA)](../Cheats/) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
+| [Saiki Kusuo no Psi Nan - Shijou Psi Dai no Psi Nan (JPN)](../Cheats/Saiki%20Kusuo%20no%20Psi%20Nan%20-%20Shijou%20Psi%20Dai%20no%20Psi%20Nan%20(JPN)/00040000001A0D00.txt) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Samurai Warriors Chronicles (EUR)](../Cheats/Samurai%20Warriors%20Chronicles%20(EUR)/0004000000040200.txt) | ❌ faster | ?FPS |  | ❌ no  | @lucky |
+| [Samurai Warriors Chronicles (USA)](../Cheats/Samurai%20Warriors%20Chronicles%20(USA)/0004000000034D00.txt) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinaly13 |
+| [Sekaiju no Meikyuu IV - Denshou no Kyoshin (JPN)](../Cheats/Sekaiju%20no%20Meikyuu%20IV%20-%20Denshou%20no%20Kyoshin%20(JPN)/0004000000080100.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sekaiju no Meikyuu V - Nagaki Shinwa no Hate (JPN)](../Cheats/Sekaiju%20no%20Meikyuu%20V%20-%20Nagaki%20Shinwa%20no%20Hate%20(JPN)/000400000018D000.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sekaiju no Meikyuu X (JPN)](../Cheats/Sekaiju%20no%20Meikyuu%20X%20(JPN)/00040000001CA300.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sengoku Musou Chronicle (JPN)](../Cheats/Sengoku%20Musou%20Chronicle%20(JPN)/0004000000031E00.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Sengoku Musou Chronicle 2nd (JPN)](../Cheats/Sengoku%20Musou%20Chronicle%202nd%20(JPN)/00040000000A4D00.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Sengoku Musou Chronicle 3rd (JPN)](../Cheats/Sengoku%20Musou%20Chronicle%203rd%20(JPN)/000400000014DF00.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Senran Kagura 2 - Deep Crimson (USA)](../Cheats/Senran%20Kagura%202%20-%20Deep%20Crimson%20(USA)/0004000000165000.txt) | ✅ mostly normal | 30FPS | :/ | ❌ no  | @Hazerou |
+| [Severed (USA)](../Cheats/Severed%20(USA)/0004000000166300.txt) | ? | ?FPS | :/ | ❌ no  | @NanashiFinal13 |
+| [Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR)](../Cheats/Shin%20Megami%20Tensei%20-%20Devil%20Summoner%20-%20Soul%20Hackers%20(EUR)/00040000000F5500.txt) | ? | 60FPS |  | ❌ weird  | @lucky |
+| [Shin Megami Tensei - Devil Summoner - Soul Hackers (JPN)](../Cheats/Shin%20Megami%20Tensei%20-%20Devil%20Summoner%20-%20Soul%20Hackers%20(JPN)/0004000000091000.txt) | ? | ?FPS |  | ❌ weird  | @lucky |
+| [Shin Megami Tensei - Devil Summoner - Soul Hackers (USA)](../Cheats/Shin%20Megami%20Tensei%20-%20Devil%20Summoner%20-%20Soul%20Hackers%20(USA)/00040000000C5600.txt) | ❌ slower | ?FPS |  | ❌ weird  | @NanashiFinal13 |
+| [Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA)](../Cheats/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%202%20Record%20Breaker%20(USA)/0004000000159500.txt) | ❌ faster | ?FPS |  | ❌ weird  | @NanashiFinal13 |
+| [Shin Megami Tensei - Devil Survivor Overclocked (USA)](../Cheats/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%20Overclocked%20(USA)/0004000000038800.txt) | ❌ faster | ?FPS |  | ❌ weird  | @NanashiFinal13 |
+| [Shin Megami Tensei - Strange Journey Redux (USA)](../Cheats/Shin%20Megami%20Tensei%20-%20Strange%20Journey%20Redux%20(USA)/00040000001CD200.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Shin Megami Tensei IV (JPN)](../Cheats/Shin%20Megami%20Tensei%20IV%20(JPN)/0004000000088A00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Shin Megami Tensei IV (USA)](../Cheats/Shin%20Megami%20Tensei%20IV%20(USA)/00040000000E5C00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Shin Megami Tensei IV Apocalypse (EUR)](../Cheats/Shin%20Megami%20Tensei%20IV%20Apocalypse%20(EUR)/00040000001A6B00.txt) | ? | ?FPS |  | ❌ type?  | @NanashiFinal13 @lucky |
+| [Shin Megami Tensei IV Apocalypse (USA)](../Cheats/Shin%20Megami%20Tensei%20IV%20Apocalypse%20(USA)/000400000019A200.txt) | ? | ?FPS |  | ❌ type?  | @NanashiFinal13 @lucky |
+| [Shin Megami Tensei IV Final (JPN)](../Cheats/Shin%20Megami%20Tensei%20IV%20Final%20(JPN)/0004000000166B00.txt) | ? | ?FPS |  | ❌ type?  | @NanashiFinal13 @lucky |
+| [Shin Sangoku Musou VS (JPN)](../Cheats/Shin%20Sangoku%20Musou%20VS%20(JPN)/0004000000072A00.txt) | ❌ faster | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Shin Sekaiju no Meikyuu - Millennium no Shoujo (JPN)](../Cheats/Shin%20Sekaiju%20no%20Meikyuu%20-%20Millennium%20no%20Shoujo%20(JPN)/00040000000CF800.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi (JPN)](../Cheats/Shin%20Sekaiju%20no%20Meikyuu%202%20-%20Fafnir%20no%20Kishi%20(JPN)/0004000000120500.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Shokugeki No Soma (JPN)](../Cheats/Shokugeki%20No%20Soma%20(JPN)/0004000000174A00.txt) | ❌ faster | ?FPS |  | ❌ no  | @Hazerou |
+| [Sonic Lost World (USA)](../Cheats/Sonic%20Lost%20World%20(USA)/00040000000C8C00.txt) | ❌ faster | ?FPS |  | ❌ no  | @Voxel |
+| [Story of Seasons - Trio of Towns (EUR)](../Cheats/Story%20of%20Seasons%20-%20Trio%20of%20Towns%20(EUR)/00040000001B5500.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Story of Seasons - Trio of Towns (USA)](../Cheats/Story%20of%20Seasons%20-%20Trio%20of%20Towns%20(USA)/000400000019F500.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Story of Seasons (EUR)](../Cheats/Story%20of%20Seasons%20(EUR)/000400000015FC00.txt) | ❌ faster | 30FPS |  | ❌ no  | @lucky |
+| [Story of Seasons (USA)](../Cheats/Story%20of%20Seasons%20(USA)/0004000000142100.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [StreetPass Mii Plaza (USA)](../Cheats/StreetPass%20Mii%20Plaza%20(USA)/0004001000021800.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Style Savvy - Fashion Forward (USA)](../Cheats/Style%20Savvy%20-%20Fashion%20Forward%20(USA)/0004000000196500.txt) | ? | 30FPS |  | ❌ no  | @Reshiban |
+| [Style Savvy - Styling Star (USA)](../Cheats/Style%20Savvy%20-%20Styling%20Star%20(USA)/00040000001C2500.txt) | ? | ?FPS |  | ❌ no  | @lucky @Hazerou @Robz8 |
+| [Sumikko Gurashi - Koko Dokonan Desu (JPN)](../Cheats/Sumikko%20Gurashi%20-%20Koko%20Dokonan%20Desu%20(JPN)/00040000001BFD00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sumikko Gurashi - Koko ga Ochitsukundesu (English Patched)](../Cheats/Sumikko%20Gurashi%20-%20Koko%20ga%20Ochitsukundesu%20(English%20Patched)/0004000000152A00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sumikko Gurashi - Koko ga Ochitsukundesu (JPN)](../Cheats/Sumikko%20Gurashi%20-%20Koko%20ga%20Ochitsukundesu%20(JPN)/0004000000152A00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sumikko Gurashi - Mura o Tsukurundesu (JPN)](../Cheats/Sumikko%20Gurashi%20-%20Mura%20o%20Tsukurundesu%20(JPN)/0004000000197600.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Sumikko Gurashi - Omise Hajimerundesu (JPN)](../Cheats/Sumikko%20Gurashi%20-%20Omise%20Hajimerundesu%20(JPN)/0004000000178500.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Super Mario 3D Land (CHN)](../Cheats/Super%20Mario%203D%20Land%20(CHN)/0004000000089F00.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Super Mario 3D Land (EUR)](../Cheats/Super%20Mario%203D%20Land%20(EUR)/0004000000053F00.txt) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Super Mario 3D Land (JPN)](../Cheats/Super%20Mario%203D%20Land%20(JPN)/0004000000054100.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Super Mario 3D Land (TWN)](../Cheats/Super%20Mario%203D%20Land%20(TWN)/0004000000089E00.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Super Mario 3D Land (USA)](../Cheats/Super%20Mario%203D%20Land%20(USA)/0004000000054000.txt) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Super Smash Bros for 3DS (EUR)](../Cheats/Super%20Smash%20Bros%20for%203DS%20(EUR)/00040000000EE000.txt) | ? | 60FPS |  | ❌ no  | @lucky |
+| [Super Smash Bros for 3DS (USA)](../Cheats/Super%20Smash%20Bros%20for%203DS%20(USA)/00040000000EDF00.txt) | ? | 60FPS |  | ❌ no  | @Hazerou |
+| [Super Street Fighter IV - 3D Edition (EUR)](../Cheats/Super%20Street%20Fighter%20IV%20-%203D%20Edition%20(EUR)/0004000000033C00.txt) | ❌ faster | 30FPS |  | ❌ no  | @blizzardy |
+| [Super Street Fighter IV - 3D Edition (USA)](../Cheats/Super%20Street%20Fighter%20IV%20-%203D%20Edition%20(USA)/0004000000032D00.txt) | ❌ faster | 30FPS |  | ❌ no  | @Hazerou |
+| [Sushi Striker - The Way of Sushido (USA)](../Cheats/Sushi%20Striker%20-%20The%20Way%20of%20Sushido%20(USA)/00040000001C1C00.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Symphony of Eternity (USA)](../Cheats/Symphony%20of%20Eternity%20(USA)/00040000001B8900.txt) | ❌ faster | 15FPS |  | ❌ no  | @Hazerou |
+| [Taiko no Tatsujin - Don Don Mystery Adventure (JPN)](../Cheats/Taiko%20no%20Tatsujin%20-%20Don%20Don%20Mystery%20Adventure%20(JPN)/0004000000190E00.txt) | ❌ faster | 30FPS |  | ❌ no  | @luc_ha |
+| [Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN)](../Cheats/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20(JPN)/0004000000102F00.txt) | ❌ faster | 60FPS |  | ❌ no  | @Reshiban |
+| [Tales of the Abyss (EUR)](../Cheats/Tales%20of%20the%20Abyss%20(EUR)/000400000005D700.txt) | ❌ faster | 30FPS |  | ❌ no  | @Reshiban |
+| [Tales of the Abyss (USA)](../Cheats/Tales%20of%20the%20Abyss%20(USA)/0004000000061300.txt) | ❌ faster | 30FPS |  | ❌ no  | @NanashiFinal13 |
+| [Tetris Axis (USA)](../Cheats/Tetris%20Axis%20(USA)/0004000000043800.txt) | ✅ mostly normal | 30FPS |  | ❌ no  | @Hazerou |
+| [The Great Ace Attorney 1 (English Patched)](../Cheats/The%20Great%20Ace%20Attorney%201%20(English%20Patched)/000400000014AD00.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [The Great Ace Attorney 2 (English Patched)](../Cheats/The%20Great%20Ace%20Attorney%202%20(English%20Patched)/00040000001AE200.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [The Legend of Zelda - A Link Between Worlds (USA)](../Cheats/The%20Legend%20of%20Zelda%20-%20A%20Link%20Between%20Worlds%20(USA)/00040000000EC300.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [The Legend of Zelda - Majoras Mask 3D (USA)](../Cheats/The%20Legend%20of%20Zelda%20-%20Majoras%20Mask%203D%20(USA)/0004000000125500.txt) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
+| [The Snack World - Trejarers (JPN)](../Cheats/The%20Snack%20World%20-%20Trejarers%20(JPN)/00040000001C1800.txt) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Tobidase Doubutsu no Mori - amiibo (JPN)](../Cheats/Tobidase%20Doubutsu%20no%20Mori%20-%20amiibo%20(JPN)/0004000000198D00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Tomodachi Life (EUR)](../Cheats/Tomodachi%20Life%20(EUR)/000400000008C400.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Tomodachi Life (KOR)](../Cheats/Tomodachi%20Life%20(KOR)/0004000000120C00.txt) | ? | 30FPS |  | ❌ no  | @lucky |
+| [Tomodachi Life (USA)](../Cheats/Tomodachi%20Life%20(USA)/000400000008C300.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Unchained Blades (USA)](../Cheats/Unchained%20Blades%20(USA)/000400000009EB00.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Undead Storm Nightmare (USA)](../Cheats/Undead%20Storm%20Nightmare%20(USA)/0004000000124800.txt) | ❌ faster(?) | 30FPS |  | ❌ no  | @Hazerou |
+| [Unlucky Mage (USA)](../Cheats/Unlucky%20Mage%20(USA)/00040000001A9700.txt) | ❌ faster | 15FPS |  | ❌ no  | @Hazerou |
+| [Wild West 3D (USA)](../Cheats/Wild%20West%203D%20(USA)/0004000000061400.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Yo-Kai Watch 1 (EUR)](../Cheats/Yo-Kai%20Watch%201%20(EUR)/0004000000167800.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch 1 (JPN)](../Cheats/Yo-Kai%20Watch%201%20(JPN)/00040000000CF400.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch 1 (USA)](../Cheats/Yo-Kai%20Watch%201%20(USA)/0004000000167700.txt) | ? | ?FPS |  | ❌ missing  | @NanashiFinal13 @lucky |
+| [Yo-Kai Watch 2 - Bony Spirits (USA)](../Cheats/Yo-Kai%20Watch%202%20-%20Bony%20Spirits%20(USA)/000400000019A900.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Yo-Kai Watch 2 - Psychic Specters (AUS)!](../Cheats/Yo-Kai%20Watch%202%20-%20Psychic%20Specters%20(EUR)/00040000001B2900.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch 2 - Psychic Specters (EUR)](../Cheats/Yo-Kai%20Watch%202%20-%20Psychic%20Specters%20(EUR)/00040000001B2800.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch 2 - Psychic Specters (USA)](../Cheats/Yo-Kai%20Watch%202%20-%20Psychic%20Specters%20(USA)/00040000001B2700.txt) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 @lucky |
+| [Yo-Kai Watch 3 (AUS)!](../Cheats/Yo-Kai%20Watch%203%20(EUR)/00040000001D6900.txt?) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch 3 (EUR)](../Cheats/Yo-Kai%20Watch%203%20(EUR)/00040000001D6800.txt?) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch 3 (USA)](../Cheats/Yo-Kai%20Watch%203%20(USA)/00040000001D6700.txt) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 @lucky |
+| [Yo-Kai Watch Blasters - Red Cat Corps (EUR)](../Cheats/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20(EUR)/00040000001CEC00.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Yo-Kai Watch Blasters - Red Cat Corps (USA)](../Cheats/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20(USA)/00040000001CEB00.txt) | ? | ?FPS |  | ❌ no  | @Hazerou |
+| [Yo-Kai Watch Blasters - Red Cat Corps (EUR Pre-Patched)!](../Cheats/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20(Pre-Patched)/00040000001CEC00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-Kai Watch Blasters - Red Cat Corps (USA Pre-Patched)!](../Cheats/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20(Pre-Patched)/00040000001CEB00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (USA)](../Cheats/Yo-kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%20Moon%20Rabbit%20Crew%20(USA)/00040000001CEF00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (EUR Pre-Patched)!](../Cheats/Yo-kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%20Moon%20Rabbit%20Crew%20(Pre-Patched)/00040000001CF000.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Yo-kai Watch Blasters - White Dog Squad - Update Moon Rabbit Crew (USA Pre-Patched)!](../Cheats/Yo-kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%20Moon%20Rabbit%20Crew%20(Pre-Patched)/00040000001CEF00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Youkai Sangokushi (JPN)](../Cheats/Youkai%20Sangokushi%20(JPN)/000400000018B000.txt) | ? | ?FPS |  | ❌ no  | @NanashiFinal13 |
+| [Youkai Watch 2 - Shinuchi (JPN)](../Cheats/Youkai%20Watch%202%20-%20Shinuchi%20(JPN)/0004000000155100.txt) | ? | 30FPS |  | ❌ no  | @Hazerou |
+| [Youkai Watch 3 - Sukiyaki (JPN)](../Cheats/Youkai%20Watch%203%20-%20Sukiyaki%20(JPN)/00040000001AF400.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Youkai Watch Busters - Akanekodan (JPN)](../Cheats/Youkai%20Watch%20Busters%20-%20Akanekodan%20(JPN)/000400000016C700.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Youkai Watch Busters - Shiroinutai (JPN)](../Cheats/Youkai%20Watch%20Busters%20-%20Shiroinutai%20(JPN)/000400000016C600.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (JPN)](../Cheats/Youkai%20Watch%20Busters%202%20-%20Hihou%20Densetsu%20Banbarayaa%20-%20Magnum%20(JPN)/00040000001C9C00.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (JPN)](../Cheats/Youkai%20Watch%20Busters%202%20-%20Hihou%20Densetsu%20Banbarayaa%20-%20Sword%20(JPN)/00040000001C9400.txt) | ? | ?FPS |  | ❌ no  | @lucky |
+| [Zero Escape - Zero Time Dilemma (USA)](../Cheats/Zero%20Escape%20-%20Zero%20Time%20Dilemma%20(USA)/000400000017B200.txt) | ? | 30FPS |  | ❌ no  | @NanashiFinal13 |
